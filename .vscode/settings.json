@@ -1,0 +1,10 @@
+{
+	"files.associations": {
+		"so_long.h": "c",
+		"stdio.h": "c",
+		"unistd.h": "c",
+		"fcntl.h": "c",
+		"mlx.h": "c",
+		"keysymdef.h": "c"
+	}
+}
